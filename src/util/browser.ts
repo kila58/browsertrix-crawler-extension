@@ -585,7 +585,7 @@ export const defaultArgs = [
   "--no-default-browser-check",
   "--disable-default-apps",
   "--disable-dev-shm-usage",
-  "--disable-extensions",
+  //"--disable-extensions",
   // AvoidUnnecessaryBeforeUnloadCheckSync - https://github.com/microsoft/playwright/issues/14047
   // Translate - https://github.com/microsoft/playwright/issues/16126
   // Optimization* - https://bugs.chromium.org/p/chromium/issues/detail?id=1311753
